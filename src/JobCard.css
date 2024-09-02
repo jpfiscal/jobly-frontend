@@ -1,0 +1,14 @@
+.JobCard {
+    background-color: whitesmoke;
+    border: 5px rgb(142, 142, 142);
+    color: black;
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 20px;
+    margin: 30px;
+}
+
+.JobCard span{
+    font-weight: bold;
+}

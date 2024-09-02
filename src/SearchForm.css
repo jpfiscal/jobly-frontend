@@ -1,0 +1,13 @@
+.SearchForm {
+    margin-top: 50px;
+    
+}
+
+.SearchForm input {
+    width: 50%;
+    height: 30px;
+}
+
+.SearchForm button {
+    background-color: rgb(8, 8, 221);
+}
